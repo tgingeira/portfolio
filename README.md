@@ -13,7 +13,7 @@
 
 | Project | Description | Link |
 | --- | --- | --- |
-| :test_tube: SQL 01 | Tutorial 1: SELECT, FROM, and WHERE | [Link](https://github.com/tgingeira/SQL/blob/main/sql_01.ipynb) |
+| :test_tube: SQL T01 | Mastering SQL Basics: How to Extract Data Using SELECT, FROM, and WHERE Commands | [Link](https://github.com/tgingeira/SQL/blob/main/sql_01.ipynb) |
 
 
 # Python
